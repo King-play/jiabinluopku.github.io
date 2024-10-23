@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Contact
-tagline: Create a contact form and you are good to go
-ref: contact
+tagline: Welcome colleagues who are interested in cooperating to contact me!
+ref: Jiabin Luo' Page
 order: 1
 ---
 
-Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why you need a third party service.
+You can contact me by the email: luojiabin.poster@foxmail.com.I will check my email periodically, so please be patient if you don't receive a prompt reply. Thank you!
 
 [Go to the Home Page]({{ '/' | absolute_url }})
