@@ -6,6 +6,6 @@ ref: Jiabin Luo' Page
 order: 1
 ---
 
-You can contact me by the email: luojiabin.poster@foxmail.com.I will check my email periodically, so please be patient if you don't receive a prompt reply. Thank you!
+You can contact me by the email: luojiabin.poster@foxmail.com. I will check my email periodically, so please be patient if you don't receive a prompt reply. Thank you!
 
 [Go to the Home Page]({{ '/' | absolute_url }})
