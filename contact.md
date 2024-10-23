@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 tagline: Welcome colleagues who are interested in cooperating to contact me!
-ref: Jiabin Luo' Page
+ref: Contact
 order: 1
 ---
 
