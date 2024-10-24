@@ -8,4 +8,6 @@
 layout: home
 ---
 
-Hey, I am Jiabin Luo, a Ph.D. student from the School of Software and Microelectronics at Peking University.My research interests are multi-modal machine learning, autonomous driving and robot learning.
+<div class="home-intro">
+  Hey, I am Jiabin Luo, a Ph.D. student from the School of Software and Microelectronics at Peking University. My research interests are multi-modal machine learning, autonomous driving, and robot learning.
+</div>
