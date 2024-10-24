@@ -19,7 +19,7 @@ theme: # leave it empty
 author: Jiabin Luo
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: Jiabin Luo
 
 plugins:
   - jekyll-target-blank
