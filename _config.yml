@@ -3,7 +3,7 @@ description: Welcome to my website!
 show_downloads: false
 
 baseurl: "/jiabinluo.github.io" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://king-play.github.io" # change this to the base hostname & protocol for your site
+url: "https://jiabinluo.github.io" # change this to the base hostname & protocol for your site
 
 
 google_analytics:
