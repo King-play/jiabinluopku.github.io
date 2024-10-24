@@ -13,7 +13,8 @@ google_analytics:
 cayman-blog:
   date_format: "%b %-d, %Y"
 
-theme: jekyll-theme-hacker
+theme: ""
+remote_theme: pages-themes/hacker@v0.2.0
 
 # social
 author: Jiabin Luo
