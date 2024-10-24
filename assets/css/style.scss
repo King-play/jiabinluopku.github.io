@@ -3,3 +3,18 @@
 
 @import 'jekyll-theme-cayman-blog';
 
+.sidebar {
+    float: left;
+    width: 200px; /* 或者你希望的宽度 */
+    margin-right: 20px;
+    padding: 10px;
+    background-color: #f9f9f9; /* 背景颜色 */
+}
+
+.sidebar img {
+    border-radius: 50%;
+    width: 100px; /* 或者你希望的宽度 */
+    height: 100px; /* 或者你希望的高度 */
+}
+
+/* 根据需要添加更多样式 */
