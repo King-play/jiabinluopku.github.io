@@ -1,0 +1,27 @@
+<!-- _includes/sidebar.html -->
+<aside class="sidebar">
+  <div class="sidebar-about">
+    {% if site.author.avatar %}
+      <img src="{{ site.author.avatar | absolute_url }}" alt="{{ site.author.name }} Avatar">
+    {% endif %}
+    <h1>{{ site.author.name }}</h1>
+    <!-- 隐藏作者的bio -->
+    <!-- <p>{{ site.author.bio }}</p> -->
+  </div>
+
+  <div class="sidebar-contact">
+    <p>{{ site.author.email }}</p>
+    <ul>
+      {% if site.author.github %}
+        <li><a href="https://github.com/{{ site.author.github }}" rel="nofollow">GitHub</a></li>
+      {% endif %}
+      <!-- 隐藏推特链接 -->
+      <!-- {% if site.author.twitter %}
+        <li><a href="https://twitter.com/{{ site.author.twitter }}" rel="nofollow">Twitter</a></li>
+      {% endif %} -->
+      {% if site.author.google_scholar %}
+        <li><a href="https://scholar.google.com/{{ site.author.google_scholar }}" rel="nofollow">Google Scholar</a></li>
+      {% endif %}
+    </ul>
+  </div>
+</aside>
