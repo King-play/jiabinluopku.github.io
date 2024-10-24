@@ -8,6 +8,16 @@ url: "https://jiabinluo.github.io" # change this to the base hostname & protocol
 
 google_analytics:
 
+# 作者信息
+author:
+  name: Jiabin Luo
+  avatar: ./jiabinluo.png # 你的照片路径
+  bio: "Ph.D. student at Peking University, focusing on multi-modal machine learning, autonomous driving, and robot learning."
+  email: your-email@example.com
+  github: jiabinluo
+
+
+
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
