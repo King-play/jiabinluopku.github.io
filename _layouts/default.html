@@ -90,6 +90,19 @@
             <!-- End: Post tagline -->
         </section>
         
+            {% include site-header.html %}
+    
+        <!-- 侧边栏开始 -->
+        <aside class="sidebar">
+            {% if site.author.avatar %}
+            <img src="{{ site.author.avatar | absolute_url }}" alt="{{ site.author.name }} Avatar">
+        {% endif %}
+            <h1>{{ site.author.name }}</h1>
+            <p>{{ site.author.bio }}</p>
+         <!-- 可以添加更多侧边栏内容，如链接、社交媒体图标等 -->
+        </aside>
+
+        
         <section class="main-content">
             
             {{ content }}
